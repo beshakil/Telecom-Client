@@ -1,0 +1,17 @@
+.bg2{
+    background-image: url(../../../Image/slideFour.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+   
+}
+.bg1{
+    background-image: url(../../../Image/slideTwo.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+   
+}
+.bg3{
+    background-image: url(../../../Image/slideThree.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
